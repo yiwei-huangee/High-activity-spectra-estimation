@@ -52,13 +52,11 @@ test: test_Ac-225_0.08 test_Am-241_0.08
 
 ```makefile
 make test
-```
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef1e6330-020d-4bf2-b2d7-9ae4a9f006bc/91d03356-f5a0-4779-a38b-598ae695ff56/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef1e6330-020d-4bf2-b2d7-9ae4a9f006bc/8a7eaa34-022b-4838-a6c1-d9b1c42489a1/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef1e6330-020d-4bf2-b2d7-9ae4a9f006bc/73ef1003-3154-4759-9f0b-abef6a94eba9/Untitled.png)
+## Experiment results
+![deepL_lambda_0 08_Ac-225_bins_1024_8 971090e-05_9 264578e-05](https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c)
+![trad_Desempile_lambda_0 08_Ac-225_bins_1024_2 090786e-02_1 342669e-02](https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc)
+![trad_Empile_lambda_0 08_Ac-225_bins_1024_1 415298e-02_1 100465e-02](https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264)
 
 # Reference
 
