@@ -1,6 +1,5 @@
 # Deep Learning for Energy Spectrum Estimation of High‑Activity Measurements
-
-![workflow.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef1e6330-020d-4bf2-b2d7-9ae4a9f006bc/74fcf482-0556-47c0-a376-32211a5c2cab/workflow.png)
+![workflow](https://github.com/user-attachments/assets/1043eec4-0f14-49f5-b1af-5d0eaefcee7d)
 
 This repository is for paper <Deep Learning for Energy Spectrum Estimation of High‑Activity Measurements>
 Abstract: Estimating the spectrum from a high-activity source is a challenging problem, when the activity of the source is high, a physical phenomenon known as the pile-up effect distorts direct measurements, resulting in a significant bias to the standard estimators of the source spectrum used so far in the field. In this paper, we proposed a two-stage spectrum estimation method from radioactive sources with very high activity based on deep learning (DL), which combines the attention mechanism and convolutional neural network. Experiments show that this model can accurately estimate the spectrum under different energy distributions.
