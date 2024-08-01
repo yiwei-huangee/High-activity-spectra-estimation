@@ -52,7 +52,7 @@ test: test_Ac-225_0.08 test_Am-241_0.08
 
 ```makefile
 make test
-
+```
 ## Experiment results
 ![deepL_lambda_0 08_Ac-225_bins_1024_8 971090e-05_9 264578e-05](https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c)
 ![trad_Desempile_lambda_0 08_Ac-225_bins_1024_2 090786e-02_1 342669e-02](https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc)
