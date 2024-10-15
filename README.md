@@ -61,8 +61,17 @@ The estimated spectrum of Ac-225 ($\lambda=0.08$) based on Deep learning(a), fas
 ![trad_Desempile_lambda_0 08_Ac-225_bins_1024_2 090786e-02_1 342669e-02](https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc)
 (b)
 ![trad_Empile_lambda_0 08_Ac-225_bins_1024_1 415298e-02_1 100465e-02](https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264)
-(c)
+(c)[deepL_lambda_0.08_Ac-225_bins_1024_1.304901e-04_1.329449e-04.pdf](https://github.com/user-attachments/files/17374950/deepL_lambda_0.08_Ac-225_bins_1024_1.304901e-04_1.329449e-04.pdf)
 
+Estimated spectrum based on Deep leaning, signal source as the example.
+
+
+[deepL_lambda_0.08_Cs-137_bins_1024_2.283977e-04_4.151637e-05.pdf](https://github.com/user-attachments/files/17374955/deepL_lambda_0.08_Cs-137_bins_1024_2.283977e-04_4.151637e-05.pdf)
+[deepL_lambda_0.08_Co-60_bins_1024_7.187970e-05_5.314916e-05.pdf](https://github.com/user-attachments/files/17374954/deepL_lambda_0.08_Co-60_bins_1024_7.187970e-05_5.314916e-05.pdf)
+[deepL_lambda_0.08_Ba-131_bins_1024_2.612169e-04_5.930216e-05.pdf](https://github.com/user-attachments/files/17374953/deepL_lambda_0.08_Ba-131_bins_1024_2.612169e-04_5.930216e-05.pdf)
+[deepL_lambda_0.08_Am-241_bins_1024_7.920451e-04_9.538854e-05.pdf](https://github.com/user-attachments/files/17374951/deepL_lambda_0.08_Am-241_bins_1024_7.920451e-04_9.538854e-05.pdf)
+[Uploading deepL_lambda_0.08_Ac-225_bins_1024_1.304901e-04_1.329449e-04.pdf…]()
+[deepL_lambda_0.08_I-125_bins_1024_1.600681e-04_1.995330e-04.pdf](https://github.com/user-attachments/files/17374948/deepL_lambda_0.08_I-125_bins_1024_1.600681e-04_1.995330e-04.pdf)
 
 
 # Reference
