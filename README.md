@@ -62,7 +62,7 @@ make test
 
 ## Experiment Results
 
-### Spectrum estimates under the experiment settings of $\lambda_n = 0.08$, and $\mathcal{B} = 1024$, for 6 different radiation sources: ${ }^{225} \mathrm{Ac}$, ${ }^{241} \mathrm{Am}$, ${ }^{131} \mathrm{Ba}$, ${ }^{60} \mathrm{Co}$,${ }^{137} \mathrm{Cs}$ and ${ }^{125} \mathrm{I}$.
+### Spectrum estimates under the experiment settings of $\lambda_n = 0.08$, and $\mathcal{B} = 1024$, for 6 different radiation sources: ${ }^{225} \mathrm{Ac}$, ${ }^{241} \mathrm{Am}$, ${ }^{131} \mathrm{Ba}$, ${ }^{60} \mathrm{Co}$, ${ }^{137} \mathrm{Cs}$ and ${ }^{125} \mathrm{I}$.
 <table>
   <tr>
     <td>
