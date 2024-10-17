@@ -87,13 +87,13 @@ make test
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" width="300"/>
-        <figcaption>Caption 5: Description of image 5</figcaption>
+        <figcaption>Caption 5: Am-241, ISE=57.15x10^-5</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" width="300"/>
-        <figcaption>Caption 6: Description of image 6</figcaption>
+        <figcaption>Caption 6: Ac-225=11.64x10^-5</figcaption>
       </figure>
     </td>
   </tr>
