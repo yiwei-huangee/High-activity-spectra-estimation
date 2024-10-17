@@ -130,10 +130,16 @@ make test
   </tr>
 </table>
 
+### Probability Distribution Distance
+<figure>
+  <img src="https://github.com/user-attachments/assets/d6e6f0a6-30c0-4d95-bb70-0b0e8c1c7a14" alt="ISEandKL" width="100%">
+  <figcaption>.</figcaption>
+</figure>
 
-
-
-
+<figure>
+  <img src="https://github.com/user-attachments/assets/2ee8b2cb-6e3c-46a9-83de-721cfa02f0e6" alt="MAEs" width="100%">
+  <figcaption>.</figcaption>
+</figure>
 
 # Reference
 
