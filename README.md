@@ -1,8 +1,8 @@
 # Deep Learning for Energy Spectrum Estimation of High‑Activity Measurements
-![workflow](https://github.com/user-attachments/assets/1043eec4-0f14-49f5-b1af-5d0eaefcee7d)
 
-This repository is for paper <Deep Learning for Energy Spectrum Estimation of High‑Activity Measurements>
-Abstract: Estimating the spectrum from a high-activity source is a challenging problem, when the activity of the source is high, a physical phenomenon known as the pile-up effect distorts direct measurements, resulting in a significant bias to the standard estimators of the source spectrum used so far in the field. In this paper, we proposed a two-stage spectrum estimation method from radioactive sources with very high activity based on deep learning (DL), which combines the attention mechanism and convolutional neural network. Experiments show that this model can accurately estimate the spectrum under different energy distributions.
+![workflow](https://github.com/user-attachments/assets/e8d90893-0416-4b88-9cc4-511b026ec8bd)
+
+The energy spectrum of a high-activity gamma source is hard to estimate due to the pileup effect, and solutions to this challenging problem are sought in a number of application areas. In this paper, we proposed a solution based on deep learning (DL), that combines the self-attention mechanism and convolutional neural network (CNN) architectures. The performance analysis was conducted using spectral data from a small scintillator (NaI) and is based on a dedicated simulator, and the results indicate that our model can accurately predict energies even at high count rates. The probability distribution distance and the energy resolution metrics of the predicted energy histograms are small, which is important for subsequent peak analysis and source identification. We demonstrate that our proposed method remains robust and accurate in predicting spectra under high to very high activities, even with varying sources and noise intensities.
 
 ## Spectrum database
 
@@ -99,7 +99,21 @@ make test
   </tr>
 </table>
 
-
+### Comparison between DL and traditional methods
+<div style="display: flex; justify-content: center;">
+  <figure style="margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" width="300"/>
+    <figcaption>Caption 1: Description of image 1</figcaption>
+  </figure>
+  <figure style="margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc" width="300"/>
+    <figcaption>Caption 2: Description of image 2</figcaption>
+  </figure>
+  <figure style="margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264" width="300"/>
+    <figcaption>Caption 3: Description of image 3</figcaption>
+  </figure>
+</div>
 
 The estimated spectrum of Ac-225 ($\lambda=0.08$) based on Deep learning(a), fast pile-up correction(b), and no pile-up correction(c)
 
