@@ -61,19 +61,19 @@ make test
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" width="300"/>
-        <figcaption>Caption 1: Description of image 1</figcaption>
+        <figcaption>Caption 1: I-125, ISE=14.68x10^-5</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" width="300"/>
-        <figcaption>Caption 2: Cs-137,ISE=15.18x10^-5</figcaption>
+        <figcaption>Caption 2: Cs-137, ISE=15.18x10^-5</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" width="300"/>
-        <figcaption>Caption 3: Co-60,ISE</figcaption>
+        <figcaption>Caption 3: Co-60, ISE=10.54x10^-5</figcaption>
       </figure>
     </td>
   </tr>
