@@ -4,7 +4,7 @@
 
 The energy spectrum of a high-activity gamma source is hard to estimate due to the pileup effect, and solutions to this challenging problem are sought in a number of application areas. In this paper, we proposed a solution based on deep learning (DL), that combines the self-attention mechanism and convolutional neural network (CNN) architectures. The performance analysis was conducted using spectral data from a small scintillator (NaI) and is based on a dedicated simulator, and the results indicate that our model can accurately predict energies even at high count rates. The probability distribution distance and the energy resolution metrics of the predicted energy histograms are small, which is important for subsequent peak analysis and source identification. We demonstrate that our proposed method remains robust and accurate in predicting spectra under high to very high activities, even with varying sources and noise intensities.
 
-## Spectrum database
+## Spectrum Database
 
 [spectrum database](https://github.com/OpenGammaProject/Gamma-Spectrum-Database)
 
@@ -53,26 +53,33 @@ test: test_Ac-225_0.08 test_Am-241_0.08
 ```makefile
 make test
 ```
-## Experiment results
+## Network Architecture
+<figure>
+  <img src="https://github.com/user-attachments/assets/368b1070-097f-48e2-9b67-b6917cb58283" alt="Network Architecture" width="100%">
+  <figcaption>Illustration of our proposed neural network architecture \textit{AttnUNet++}.</figcaption>
+</figure>
+
+
+## Experiment Results
 
 ### Estimated spectrum based on Deep learning, signal source as the example.
 <table>
   <tr>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" width="300"/>
+        <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" alt="I-125" width="30%"/>
         <figcaption>(a) I-125, $ISE=14.68 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" width="300"/>
+        <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" alt="Cs-137" width="30%"/>
         <figcaption>(b) Cs-137, $ISE=15.18 \times10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" width="300"/>
+        <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" alt="Co-60" width="30%"/>
         <figcaption>(c) Co-60, $ISE=10.54 \times 10^{-5}$</figcaption>
       </figure>
     </td>
@@ -80,19 +87,19 @@ make test
   <tr>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" width="300"/>
+        <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" alt="Ba-131" width="30%"/>
         <figcaption>(d) Ba-131, $ISE=18.50 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" width="300"/>
+        <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" alt="Am-241" width="30%"/>
         <figcaption>(e) Am-241, $ISE=57.15 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" width="300"/>
+        <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" alt="Ac-225" width="30%"/>
         <figcaption>(f) Ac-225, $ISE=11.64 \times 10^{-5}$</figcaption>
       </figure>
     </td>
@@ -104,19 +111,19 @@ make test
   <tr>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" alt="Image 1" width="300">
+        <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" alt="Image 1" width="30%">
         <figcaption>(a) Estimated spectrum of Ac-225 ($\lambda=0.08$) based on Deep learning</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc" alt="Image 2" width="300">
+        <img src="https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc" alt="Image 2" width="30%">
         <figcaption>(b) Estimated spectrum of Ac-225 ($\lambda=0.08$) based on Fast pile-up Correction</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264" alt="Image 3" width="300">
+        <img src="https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264" alt="Image 3" width="30%">
         <figcaption>(c) Estimated spectrum of Ac-225 ($\lambda=0.08$) with no pile-up correction(c)</figcaption>
       </figure>
     </td>
