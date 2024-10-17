@@ -61,19 +61,19 @@ make test
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" width="300"/>
-        <figcaption>(a) I-125, $ISE=14.68x10^-5$</figcaption>
+        <figcaption>(a) I-125, $ISE=14.68 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" width="300"/>
-        <figcaption>(b) Cs-137, $ISE=15.18x10^-5$</figcaption>
+        <figcaption>(b) Cs-137, $ISE=15.18 \times10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" width="300"/>
-        <figcaption>(c) Co-60, $ISE=10.54x10^-5$</figcaption>
+        <figcaption>(c) Co-60, $ISE=10.54 \times 10^{-5}$</figcaption>
       </figure>
     </td>
   </tr>
@@ -81,19 +81,19 @@ make test
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" width="300"/>
-        <figcaption>(d) Ba-131, $ISE=18.50x10^-5$</figcaption>
+        <figcaption>(d) Ba-131, $ISE=18.50 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" width="300"/>
-        <figcaption>(e) Am-241, $ISE=57.15x10^-5$</figcaption>
+        <figcaption>(e) Am-241, $ISE=57.15 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" width="300"/>
-        <figcaption>(f) Ac-225, $ISE=11.64x10^-5$</figcaption>
+        <figcaption>(f) Ac-225, $ISE=11.64 \times 10^{-5}$</figcaption>
       </figure>
     </td>
   </tr>
