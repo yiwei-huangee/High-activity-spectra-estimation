@@ -55,25 +55,51 @@ make test
 ```
 ## Experiment results
 
-### Estimated spectrum based on Deep leaning, signal source as the example.
+### Estimated spectrum based on Deep learning, signal source as the example.
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" width="200"/></td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" width="300"/>
+        <figcaption>Caption 1: Description of image 1</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" width="300"/>
+        <figcaption>Caption 2: Description of image 2</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" width="300"/>
+        <figcaption>Caption 3: Description of image 3</figcaption>
+      </figure>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" width="200"/></td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" width="300"/>
+        <figcaption>Caption 4: Description of image 4</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" width="300"/>
+        <figcaption>Caption 5: Description of image 5</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" width="300"/>
+        <figcaption>Caption 6: Description of image 6</figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
-![I-125](https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add)
-![Cs-137](https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e)
-![Co-60](https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f)
-![Ba-131](https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c)
-![Am-241](https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca)
-![Ac-225](https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809)
+
+
 
 The estimated spectrum of Ac-225 ($\lambda=0.08$) based on Deep learning(a), fast pile-up correction(b), and no pile-up correction(c)
 
