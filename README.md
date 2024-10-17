@@ -67,19 +67,19 @@ make test
   <tr>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" alt="I-125" width="30%"/>
+        <img src="https://github.com/user-attachments/assets/4ca84184-fac3-4681-b894-bb0737a66add" alt="I-125" width="100%"/>
         <figcaption>(a) I-125, $ISE=14.68 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" alt="Cs-137" width="30%"/>
+        <img src="https://github.com/user-attachments/assets/2d403f3d-2d20-4048-aeae-fa05eb851b9e" alt="Cs-137" width="100%"/>
         <figcaption>(b) Cs-137, $ISE=15.18 \times10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" alt="Co-60" width="30%"/>
+        <img src="https://github.com/user-attachments/assets/4b380f8c-6070-4d9a-9ffa-acdaf1152c7f" alt="Co-60" width="100%"/>
         <figcaption>(c) Co-60, $ISE=10.54 \times 10^{-5}$</figcaption>
       </figure>
     </td>
@@ -87,19 +87,19 @@ make test
   <tr>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" alt="Ba-131" width="30%"/>
+        <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" alt="Ba-131" width="100%"/>
         <figcaption>(d) Ba-131, $ISE=18.50 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" alt="Am-241" width="30%"/>
+        <img src="https://github.com/user-attachments/assets/0a988a2e-08e4-4480-a899-dab3817325ca" alt="Am-241" width="100%"/>
         <figcaption>(e) Am-241, $ISE=57.15 \times 10^{-5}$</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" alt="Ac-225" width="30%"/>
+        <img src="https://github.com/user-attachments/assets/d8ad4eaf-dab4-4d24-87c5-2157d8f58809" alt="Ac-225" width="100%"/>
         <figcaption>(f) Ac-225, $ISE=11.64 \times 10^{-5}$</figcaption>
       </figure>
     </td>
@@ -111,19 +111,19 @@ make test
   <tr>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" alt="Image 1" width="30%">
+        <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" alt="Image 1" width="100%">
         <figcaption>(a) Estimated spectrum of Ac-225 ($\lambda=0.08$) based on Deep learning</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc" alt="Image 2" width="30%">
+        <img src="https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc" alt="Image 2" width="100%">
         <figcaption>(b) Estimated spectrum of Ac-225 ($\lambda=0.08$) based on Fast pile-up Correction</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264" alt="Image 3" width="30%">
+        <img src="https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264" alt="Image 3" width="100%">
         <figcaption>(c) Estimated spectrum of Ac-225 ($\lambda=0.08$) with no pile-up correction(c)</figcaption>
       </figure>
     </td>
