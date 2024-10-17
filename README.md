@@ -100,6 +100,32 @@ make test
 </table>
 
 ### Comparison between DL and traditional methods
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" alt="Image 1" width="300">
+        <figcaption>Caption 1</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/e9e63278-0ad3-43c5-ba00-8d0455cefcfc" alt="Image 2" width="300">
+        <figcaption>Caption 2</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/user-attachments/assets/62685424-2998-43e8-8972-516eb31d8264" alt="Image 3" width="300">
+        <figcaption>Caption 3</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <div style="display: flex; justify-content: center;">
   <figure style="margin: 10px;">
     <img src="https://github.com/user-attachments/assets/432f7c08-7df5-4841-b5bc-13181902a02c" width="300"/>
