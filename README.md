@@ -81,7 +81,7 @@ make test
     <td>
       <figure>
         <img src="https://github.com/user-attachments/assets/dfefdc94-1cdf-43b1-aad5-3712fb6e7b4c" width="300"/>
-        <figcaption>Caption 4: Description of image 4</figcaption>
+        <figcaption>Caption 4: Ba-131, ISE=18.50x10^-5</figcaption>
       </figure>
     </td>
     <td>
